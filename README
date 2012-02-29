@@ -1,0 +1,34 @@
+
+ stripecart  (under development)
+ ___
+ 
+ open-source shopping cart for simplified commerce using stripe.com payments
+
+ requires:
+
+ •  existing MySQL database
+ •  SSL Cert for use in connecting to stripe.com
+ •  minimum 640x400 px area in your page layout
+ •  3 PHP-writable folders on webserver 
+     (config file, new pages, new images)
+
+ built upon:
+ 
+ Linux, Apache, MySQL InnoDB, PHP [with cURL, gd, mail, file_upload]
+ HTML5, CSS3, jQuery +UI, SynapticData pseudoAjax CMS, tinymce, tinymce_img,
+ Ben Alman's BBQ, webtoolkit jQuery base64, Jeff Todnem's passwordmeter.js,
+ Google ReCaptcha, Malsup.com jQuery Form, SynapticData Core & Acct libraries,
+ Tim Eckel fastimagecopyresampled, Google WebFonts, and more.
+ 
+ installs as widget:
+
+ •  upload folder to your webserver
+ •  write 3 lines in your webpage
+
+ automatic installation script on first launch
+ 
+ awesome sauce
+ ___
+
+ greg kendall, Synaptic Data Systems, Inc. - Feb 29, 2012
+ dev@stripecart.com
